@@ -17,9 +17,10 @@ h6 {
   font-weight: normal;
 }
 
-h1 {
+h2 {
   font-size: 2em;
   margin-top: 0;
+  margin-bottom: 20px;
   line-height: 1.5;
 }
 
@@ -130,14 +131,14 @@ main {
   display: block;
 }
 
-aside {
+.mailing-list {
   background: #2969B0;
   color: #fff;
   padding: 20px;
   overflow: hidden;
 }
 
-aside p {
+.mailing-list p {
   margin-top: 0;
   background: url(inbox-icon.png) no-repeat;
   padding-left: 60px;
